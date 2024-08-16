@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mohammed, a third year computer science student. I am a Jnr. Devops Engineer and a Full stack developer.</div>  
   
 
-- 🔭 I’m currently working on my programming and cloud skills.  
+- 🔭 I’m improving my programming and cloud skills.  
   
 
 - 🌱 I’m currently learning Terraform and Kubernetes  
