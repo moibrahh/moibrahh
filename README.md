@@ -6,10 +6,10 @@
 ### <div align="center">I'm Mohammed, a Software/Cloud DevOps Engineer.</div>  
   
 
-- 🔭 I’m improving my programming and cloud skills.  
+- 🔭 I’m advancing my programming and cloud skills.  
   
 
-- 🌱 I’m currently learning Terraform and Kubernetes  
+- 🌱 I’m currently learning AI and ML..  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
